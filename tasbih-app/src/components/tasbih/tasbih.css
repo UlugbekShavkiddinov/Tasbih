@@ -1,0 +1,76 @@
+.wrapper-tasbih {
+   
+    max-width: 1500px;
+    height: 788px;
+    background-image: url(https://www1.cbn.com/sites/default/files/Islam_SSH.jpg);
+    background-size: cover;
+}
+
+.counter {
+    font-size: 50px; 
+    font-weight: bold;
+}
+
+.secondary-counter {
+    color: dimgray;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 6px;
+}
+
+.counters {
+    background: none;
+    border: none;
+   
+}
+
+.counters-box {
+    margin-bottom: 100px;
+     margin: 100px 0 0 100px;
+}
+
+.btn-add {
+    background: none;
+    border: none;
+    font-size: 50px;
+}
+
+.btn-reset {
+    position: absolute;
+    top: 30%;
+    left: 6%;
+    padding: 5px 25px;
+  font-size: 20px;
+  background: lightblue;
+  color: black;
+  border-radius: 100px;
+  border-color: black;
+}
+
+.scroll-text {
+    position: absolute;
+    top: 1%;
+    font-size: 20px;
+    left: .5%;
+}
+.tap {
+    border: 1px solid #000;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 50px;
+    position: absolute;
+    top: 28%;
+    left: 16%;
+    background: black;
+    color: white;
+    text-transform: uppercase;
+}
+
+.duas {
+    position: absolute;
+    top: 55%;
+    left: 0.5%;
+    font-size: 20px;
+}
+
+
